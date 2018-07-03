@@ -1,11 +1,11 @@
 {
-    "name": "greeflas/itea-reflection-api",
+    "name": "sanya/Reflection-api",
     "type": "project",
     "license": "MIT",
     "authors": [
         {
-            "name": "greeflas",
-            "email": "vldmr.kuprienko@gmail.com"
+            "name": "Snegovoy98",
+            "email": ""
         }
     ],
     "minimum-stability": "stable",
