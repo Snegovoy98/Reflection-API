@@ -5,7 +5,6 @@ namespace App\Model;
 /**
  * User model.
  *
- * @author Vladimir Kuprienko <vldmr.kuprienko@gmail.com>
  */
 class User
 {
